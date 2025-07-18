@@ -163,4 +163,8 @@ Launch Jenkins WAR as a standalone application, verify that it works.
 
 Yes, it went well!
 
+```bash
+java -jar jenkins.war
+```
+
 <p align="center"> <img src="img/img7.png" alt="IMG7" width="80%"> </p>
